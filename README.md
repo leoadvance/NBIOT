@@ -9,8 +9,10 @@ Code Editor : Source Insight 4.x
 
 ### 接口说明
 ```
-SPI:  OLED 
-IIC:  Sensor 
+SPI : OLED 
+IIC0: T&H  Sensor 
+IIC1: tVOC Sensor 
+IIC2: RTC  EEPROM
 UART: Debug
 ```
 ### 命令说明
