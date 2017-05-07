@@ -9,7 +9,7 @@ Code Editor : Source Insight 4.x
 
 ### 接口说明
 ```
-SPI : OLED 
+SPI : OLED 128*64
 IIC0: T&H  Sensor 
 IIC1: tVOC Sensor 
 IIC2: RTC  EEPROM
